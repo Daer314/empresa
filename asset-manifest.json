@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/empresa/static/css/main.9d55d8a5.css",
+    "main.js": "/empresa/static/js/main.ca6d782b.js",
+    "static/media/Banner.mp4": "/empresa/static/media/Banner.5014ee7f2574adc29e22.mp4",
+    "static/media/serviceBanner.png": "/empresa/static/media/serviceBanner.78cac7a3d61cf150c287.png",
+    "static/media/ATV6.jpg": "/empresa/static/media/ATV6.e5f7404283af2ef6b439.jpg",
+    "static/media/ATV5.jpg": "/empresa/static/media/ATV5.ae1a9a262da314d9e47f.jpg",
+    "static/media/ATV4.jpg": "/empresa/static/media/ATV4.8bb8a201ae2f936d0196.jpg",
+    "static/media/ATV3.jpg": "/empresa/static/media/ATV3.454305c2cff0b82671ca.jpg",
+    "static/media/ATV2.jpg": "/empresa/static/media/ATV2.fb58e447c1254b0af856.jpg",
+    "static/media/ATV1.jpg": "/empresa/static/media/ATV1.7e1c5fbb3140825b605c.jpg",
+    "index.html": "/empresa/index.html",
+    "main.9d55d8a5.css.map": "/empresa/static/css/main.9d55d8a5.css.map",
+    "main.ca6d782b.js.map": "/empresa/static/js/main.ca6d782b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d55d8a5.css",
+    "static/js/main.ca6d782b.js"
+  ]
+}
